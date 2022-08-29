@@ -1,0 +1,201 @@
+{
+  "cuenta": 28,
+  "resultados": [
+    {
+      "nombre": "Emiliano Martínez",
+      "edad": 29,
+      "valorMercado": 28000000,
+      "posicion": "Arquero",
+      "equipoOficial": "Aston Villa"
+    },
+    {
+      "nombre": "Gerónimo Rulli",
+      "edad": 30,
+      "valorMercado": 6000000,
+      "posicion": "Arquero",
+      "equipoOficial": "Villarreal CF"
+    },
+    {
+      "nombre": "Franco Armani",
+      "edad": 35,
+      "valorMercado": 3500000,
+      "posicion": "Arquero",
+      "equipoOficial": "CA River Plate"
+    },
+    {
+      "nombre": "Cristian Romero",
+      "edad": 24,
+      "valorMercado": 48000000,
+      "posicion": "Defensa Central",
+      "equipoOficial": "Tottenham Hotspur"
+    },
+    {
+      "nombre": "Lisandro Martínez",
+      "edad": 24,
+      "valorMercado": 32000000,
+      "posicion": "Defensa Central",
+      "equipoOficial": "Manchester United"
+    },
+    {
+      "nombre": "Marcos Senesi",
+      "edad": 25,
+      "valorMercado": 17000000,
+      "posicion": "Defensa Central",
+      "equipoOficial": "AFC Bournemouth"
+    },
+    {
+      "nombre": "Lucas Martínez Quarta",
+      "edad": 26,
+      "valorMercado": 12000000,
+      "posicion": "Defensa Central",
+      "equipoOficial": "Fiorentina"
+    },
+    {
+      "nombre": "Germán Pezzella",
+      "edad": 31,
+      "valorMercado": 5000000,
+      "posicion": "Defensa Central",
+      "equipoOficial": "Real Betis Balompié"
+    },
+    {
+      "nombre": "Nicolás Otamendi",
+      "edad": 34,
+      "valorMercado": 3500000,
+      "posicion": "Defensa Central",
+      "equipoOficial": "SL Benfica"
+    },
+    {
+      "nombre": "Marcos Acuña",
+      "edad": 30,
+      "valorMercado": 18000000,
+      "posicion": "Lateral Izquierdo",
+      "equipoOficial": "Sevilla FC"
+    },
+    {
+      "nombre": "Nicolás Tagliafico",
+      "edad": 29,
+      "valorMercado": 11000000,
+      "posicion": "Lateral Izquierdo",
+      "equipoOficial": "Olympique de Lyon"
+    },
+    {
+      "nombre": "Juan Foyth",
+      "edad": 24,
+      "valorMercado": 25000000,
+      "posicion": "Lateral Derecho",
+      "equipoOficial": "Villarreal CF"
+    },
+    {
+      "nombre": "Nahuel Molina",
+      "edad": 24,
+      "valorMercado": 20000000,
+      "posicion": "Lateral Derecho",
+      "equipoOficial": "Atlético de Madrid"
+    },
+    {
+      "nombre": "Gonzalo Montiel",
+      "edad": 25,
+      "valorMercado": 14000000,
+      "posicion": "Lateral Derecho",
+      "equipoOficial": "Sevilla FC"
+    },
+    {
+      "nombre": "Guido Rodríguez",
+      "edad": 28,
+      "valorMercado": 25000000,
+      "posicion": "Pivote",
+      "equipoOficial": "Real Betis Balompié"
+    },
+    {
+      "nombre": "Leandro Paredes",
+      "edad": 28,
+      "valorMercado": 17000000,
+      "posicion": "Pivote",
+      "equipoOficial": "París Saint-German FC"
+    },
+    {
+      "nombre": "Rodigo de Paul",
+      "edad": 28,
+      "valorMercado": 40000000,
+      "posicion": "Mediocentro",
+      "equipoOficial": "Atlético de Madrid"
+    },
+    {
+      "nombre": "Giovani Lo Celso",
+      "edad": 26,
+      "valorMercado": 22000000,
+      "posicion": "Mediocentro",
+      "equipoOficial": "Villarreal CF"
+    },
+    {
+      "nombre": "Exequiel Palacios",
+      "edad": 23,
+      "valorMercado": 15000000,
+      "posicion": "Mediocentro",
+      "equipoOficial": "Bayer 04 Leverkusen"
+    },
+    {
+      "nombre": "Alexis Mac Allister",
+      "edad": 23,
+      "valorMercado": 16000000,
+      "posicion": "Mediocentro Ofensivo",
+      "equipoOficial": "Brighton & Hove Albion"
+    },
+    {
+      "nombre": "Papu Gómez",
+      "edad": 34,
+      "valorMercado": 6000000,
+      "posicion": "Mediocentro Ofensivo",
+      "equipoOficial": "Sevilla FC"
+    },
+    {
+      "nombre": "Nicolás González",
+      "edad": 24,
+      "valorMercado": 25000000,
+      "posicion": "Extremo Izquierdo",
+      "equipoOficial": "Fiorentina"
+    },
+    {
+      "nombre": "Lionel Messi",
+      "edad": 35,
+      "valorMercado": 50000000,
+      "posicion": "Extremo Derecho",
+      "equipoOficial": "París Saint-German FC"
+    },
+    {
+      "nombre": "Ángel Di María",
+      "edad": 24,
+      "valorMercado": 12000000,
+      "posicion": "Extremo Derecho",
+      "equipoOficial": "Juventus de Turín"
+    },
+    {
+      "nombre": "Paulo Dybala",
+      "edad": 28,
+      "valorMercado": 35000000,
+      "posicion": "Mediapunta",
+      "equipoOficial": "AS Roma"
+    },
+    {
+      "nombre": "Joaquín Correa",
+      "edad": 28,
+      "valorMercado": 23000000,
+      "posicion": "Mediapunta",
+      "equipoOficial": "Inter de Milán"
+    },
+    {
+      "nombre": "Lautaro Martínez",
+      "edad": 25,
+      "valorMercado": 75000000,
+      "posicion": "Delantero Centro",
+      "equipoOficial": "Inter de Milán"
+    },
+    {
+      "nombre": "Julián Álvarez",
+      "edad": 22,
+      "valorMercado": 23000000,
+      "posicion": "Delantero Centro",
+      "equipoOficial": "Manchester City"
+    }
+  ]
+}
